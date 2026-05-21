@@ -1,0 +1,9 @@
+version: 6.5.0
+name: dryviq-headlamp-plugin
+displayName: DryvIQ Headlamp Plugin
+createdAt:
+logoURL: https://dryviq.com/wp-content/themes/dryviq/favicon/favicon_dryv.png
+description: DryvIQ Platform lifecycle management plugin for Headlamp
+annotations:
+  headlamp/plugin/archive-url:
+  headlamp/plugin/archive-checksum:
