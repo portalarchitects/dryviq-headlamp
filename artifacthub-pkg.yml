@@ -2,7 +2,7 @@ version: 6.5.0
 name: dryviq-headlamp-plugin
 displayName: DryvIQ Headlamp Plugin
 createdAt: 2026-05-22T14:49:40Z
-logoURL: https://dryviq.com/wp-content/themes/dryviq/favicon/favicon_dryv.png
+logoURL: https://raw.githubusercontent.com/portalarchitects/dryviq-headlamp/refs/heads/main/favicon_dryv.png
 description: DryvIQ Platform lifecycle management plugin for Headlamp
 annotations:
   headlamp/plugin/archive-url: https://github.com/portalarchitects/dryviq-headlamp/releases/download/6.5.0/dryviq-platform-headlamp.zip
