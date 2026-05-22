@@ -1,11 +1,11 @@
 version: 6.5.0
 name: dryviq-headlamp-plugin
 displayName: DryvIQ Headlamp Plugin
-createdAt: 2026-05-22T14:49:40Z
+createdAt: 2026-05-22T15:34:40Z
 logoURL: https://raw.githubusercontent.com/portalarchitects/dryviq-headlamp/main/favicon_dryv.png
 description: DryvIQ Platform lifecycle management plugin for Headlamp
 annotations:
-  headlamp/plugin/archive-url: https://github.com/portalarchitects/dryviq-headlamp/releases/download/6.5.0/dryviq-platform-headlamp.zip
-  headlamp/plugin/archive-checksum: sha256:710c8fecdd52f9ca236b42c3f9a16c4a6430ae2e4170a8ef99a81960c93ed602
+  headlamp/plugin/archive-url: https://github.com/portalarchitects/dryviq-headlamp/releases/download/6.5.0/dryviq-platform-6.5.0.tar.gz
+  headlamp/plugin/archive-checksum: sha256:ec2bcea12799d294370b55ce8fce5a353ca55fe2d30636236f7c21bd11851cb7
   headlamp/plugin/version-compat: ">=0.22"
   headlamp/plugin/distro-compat: in-cluster,web,docker-desktop,desktop
